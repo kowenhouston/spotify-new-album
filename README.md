@@ -23,6 +23,8 @@ export SPOTIPY_REDIRECT_URI='http://localhost/'
 Only tested on Python 3.4
 <br>
 If you import this into another python app you could probably do something cool like text you or whatever. But I had 50 minutes.
+![alt text](https://raw.githubusercontent.com/kowenhouston/spotify-new-album/master/spotify-settings.png)
+
 
 # Sample output
 ```
