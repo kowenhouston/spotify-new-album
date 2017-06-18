@@ -1,5 +1,5 @@
 # spotify-new-album
-Do something when your favourite artist releases a new album
+Historically "following" an artist on spotify hasn't allowed me to be notified immediately of an artist releasing an album. This program is designed to be run along with a wrapper script and cron to tell you when your favourite artist has posted a new album.
 
 # Details
 50 min code challenge: Create a program that alerts when your favourite artist adds a new album.
